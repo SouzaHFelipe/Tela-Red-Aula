@@ -1,0 +1,8 @@
+.form-input{
+    height: 40px;
+    width: 290px;
+   padding: 10px 20px;
+   border-style: none;
+   background-color: var(--icon-color);
+}
+
