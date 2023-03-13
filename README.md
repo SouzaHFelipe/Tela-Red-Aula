@@ -1,5 +1,5 @@
 # Tela-red
 
-Treinando HTML , CSS e JS , com uma tela de login
+Treinando HTML , CSS e JS com video aula do Youtube
 
 https://souzahfelipe.github.io/Tela-red/
